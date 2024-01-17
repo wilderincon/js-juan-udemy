@@ -16,4 +16,4 @@ console.warn('warn');
 console.warn('warn');
 console.warn('warn');
 console.time('Hola');
-console.loh({nombre: juan})
+console.loh({nombre: juan});

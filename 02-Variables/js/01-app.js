@@ -1,4 +1,4 @@
-//inicializar variable con un variable
+/* //inicializar variable con un variable
 var producto = "monitor de 24 pulgadas";
 console.log(producto);
 //Las variables se pueden reasignar
@@ -22,4 +22,12 @@ var categoria = 'Computadoras',
 
     console.log({categoria, marca, calificacion});
 
+// CamelCase
+var isFalsy = false;
+// SnakeCase
+var user_year = 1992;
+// Pascal
+var FirstName = 'Richard';
 
+
+ */
